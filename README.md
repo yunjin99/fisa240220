@@ -14,3 +14,4 @@
 - aws 5
 - aws 6
 - aws 7
+- aws 8
