@@ -13,3 +13,4 @@
 - aws 4
 - aws 5
 - aws 6
+- aws 7
